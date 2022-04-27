@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	go_logger "gitee/sznc/go-logger"
+	go_logger "github.com/baoyxing/go-logger"
 	"github.com/go-redis/redis/v8"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"

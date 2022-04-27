@@ -1,4 +1,4 @@
-module gitee/sznc/go-logger
+module github.com/baoyxing/go-logger
 
 go 1.18
 
